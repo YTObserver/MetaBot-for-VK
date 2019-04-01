@@ -1,3 +1,2 @@
-# VK-ACC-DB
-Database for VK
-METABOT FOR VK - DEEP ALPHA
+# MetaBot for VK - тест
+Тестим. Хз, когда будем развивать дальше...
