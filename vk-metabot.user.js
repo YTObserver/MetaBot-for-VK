@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ******* for VK
+// @name         MetaBot for VK (DEEP ALPHA)
 // @namespace    vk-metabot-user-js
 // @description  More information about users on VK.
 // @version      190330
@@ -22,7 +22,7 @@ waitforlists();
 
 function filllist(numArr, response, code, url) {
   if (code !== 200) {
-    console.log("[******* for VK] List load error. URL " + url + " Code " + code);
+    console.log("[MetaBot for VK (DEEP ALPHA)] List load error. URL " + url + " Code " + code);
   } else {
     switch (numArr) {
       case 0:
@@ -30,9 +30,9 @@ function filllist(numArr, response, code, url) {
         var dbname = "VKB-db";
     }
     if (code === 200) {
-      console.log("[******* for Youtube] " + dbname + " loaded. Code " + code);
+      console.log("[MetaBot for VK (DEEP ALPHA)] " + dbname + " loaded. Code " + code);
     } else {
-      console.log("[******* for Youtube] " + dbname + " load error. Code " + code);
+      console.log("[MetaBot for VK (DEEP ALPHA)] " + dbname + " load error. Code " + code);
     }
   }
   listqueue--;
