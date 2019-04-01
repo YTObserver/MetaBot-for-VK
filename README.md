@@ -1,0 +1,3 @@
+# VK-ACC-DB
+Database for VK
+METABOT FOR VK - DEEP ALPHA
