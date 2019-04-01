@@ -13,7 +13,7 @@
 
 var listqueue = 0;
 var arrayVKB = [];
-const VKBurl = 'https://raw.githubusercontent.com/YTObserver/VK-ACC-DB/master/test_db';
+const VKBurl = 'https://raw.githubusercontent.com/YTObserver/MetaBot-for-VK/master/test_db';
 const VKBcolor = '255,50,50';
 
 listqueue++;
